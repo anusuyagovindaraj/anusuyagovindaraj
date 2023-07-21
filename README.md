@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anusuya G
-- 👀 I’m interested in Digital Marketing,web development, Networking
-- 🌱 I’m currently learning Digital marketing
+- 👀 I’m interested in Digital Marketing & UI/UX Designer 
+  
 
 
 <!---
